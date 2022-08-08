@@ -5,7 +5,7 @@
 
 ## Descrição
 API criada para cadastrar os dados dos usuários da horta cumunitária, que foi um desafio proposto pela FACENS.
-<!--Nós usamos como base este [modelo conceitual](https://lucid.app/lucidchart/b75a4049-ab73-4240-ae5d-9a4a59b204c9/edit?page=0_0&invitationId=inv_a33eb8ef-ce86-457a-a611-c710c63de62e#).-->
+Nós usamos como base este [modelo conceitual](https://lucid.app/lucidchart/55279da4-975a-4f31-a974-60c3e0f8c84e/edit?viewport_loc=-148%2C8%2C2138%2C1054%2C0_0&invitationId=inv_423019be-8640-401b-bae7-1c3e7b40bec1#).
 ## Instalando
 
 ```node
